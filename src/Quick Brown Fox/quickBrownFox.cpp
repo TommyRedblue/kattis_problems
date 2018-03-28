@@ -44,9 +44,6 @@ int main() {
     alphaFound['y'] = 0;
     alphaFound['z'] = 0;
     
-    //std::vector<char> alphabet = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
-    //std::vector<int> found = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
-
     string line = "";
     std::getline(std::cin, line);
     
